@@ -73,8 +73,15 @@ If you like you can substitute the data with a new search on instagram API or ev
 
 ## Instructions
 
-Fork this repository, develop the project for each language in its repository, write the tests, adjust your .travis.xml and make it pass the tests and run!
+1. Fork this repository
+2. Add your name to CANDIDATES file including a link to your fork and send the PR
+2. Develop the project for each language listed
+3. Write the tests
+4. Adjust your .travis.xml and make it pass the tests
+5. Add your name to and a link to travis.yml to POLYGLOTS file and send the PR
+6. If everything is ok!
 
 > Then
 
-# Congrats! you are a Polyglot!
+# Congrats! you are a Polyglot Programmer!
+# you will get a sticker and a t-shirt oferred by one of our sponsors!
