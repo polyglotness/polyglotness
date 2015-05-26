@@ -84,4 +84,4 @@ If you like you can substitute the data with a new search on instagram API or ev
 > Then
 
 # Congrats! you are a Polyglot Programmer!
-# you will get a sticker and a t-shirt oferred by one of our sponsors!
+you will get a sticker and a t-shirt oferred by one of our sponsors!
