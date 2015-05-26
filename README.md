@@ -82,7 +82,7 @@ If you like you can substitute the data with a new search on instagram API or ev
 2. Add your name to CANDIDATES file including a link to your fork and send the PR
 2. Develop the project for each language listed
 3. Write the tests
-4. Adjust your .travis.xml and make it pass the tests
+4. Adjust your .travis.yml and make it pass the tests
 5. Add your name to and a link to travis.yml to POLYGLOTS file and send the PR
 6. If everything is ok!
 
