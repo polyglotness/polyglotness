@@ -1,0 +1,6 @@
+[POLYGLOTS]
+instructions = "If you achieved the challenge objective, add your fork link following example below, your name and your email to receive notifications"
+
+[http://github.com/rochacbruno/polyglotness]
+name = Bruno Rocha
+email = rochacbruno@gmail.com
