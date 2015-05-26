@@ -47,6 +47,8 @@ Only 7 simple user stories, develop each of them in each language, once a story 
 1. As a DEVOPS, I want a COMMAND LINE TOOL, that grabs a GIVEN number of pictures and its data from instagram API in order to save that data in a local SQLIte database
 also downloads and saves locally every image, including thumbnails from that items in the JSON returned by the API. (see **The Data** for data model)
 
+> NOTE: only pass to the next story, once the previous is implemented and tested for every language!
+
 2. As a DATA QUALITY PERSON I want, preferably a Graphical CRUD TOOL, to admin the populated SQLITE database allowing me to edit and add new items.
 
 3. As a DEVELOPER I want a REST API to have READ only access to the data in SQLITE Database.
