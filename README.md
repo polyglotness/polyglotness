@@ -21,7 +21,17 @@ Develop the same project in X different languages.
 14. elixir
 15. JavaScript - Node.js
 
-# Project
+# Why?
+
+The project idea is to motivate programmers to be polyglot and know how to use 15 languages and its specific ecosystem and platform, it is a personal challenge taken by any individual who applies as a CANDIDATE.
+
+Also it is FOR FUN! for community interation, to learn new things, and to compete with others in other to get your Polyglot BADGE!
+
+# Colaborate
+
+New ideas will be always welcome, open an issue!
+
+# Project 
 
 The idea is to develop a simple project in a bunch of different languages to prove your polyglot-ness
 
@@ -84,22 +94,40 @@ If you like you can substitute the data with a new search on instagram API or ev
 3. Write the tests
 4. Adjust your .travis.yml and make it pass the tests
 5. Add your name to and a link to travis.yml to POLYGLOTS file and send the PR
-6. If everything is ok!
+6. If everything is ok the PolyglotBot will tell you!
 
+## Rules
 
-## The validation
+### Project structure
 
-The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process. (we trust you)
+You have to keep the code related to each language inside its own folder, you do not have to follow any kind of design pattern, do the way you want since you write the mandatory tests and make it pass on travis CI
+
+### CI
+
+Travis CI is the CI of choice because it supports multiple languages in the same repository, there is a file **.travis.yml** in the root of the repository, you just have to register your own fork on travis and fill the travis file with the required steps to deploy, build and test each language project.
+
+### Mandatory tests
+
+There is a bunch of mandatory tests to be written, some of them you will find in test_specs.md file, some of them will be automtically send by PolyglotBot
+
+### Development sequence
+
+You have to follow the order of the stories starting at the number 1, develop the story number 1 for each language, test it and since you develop 1 for avery language you can pass to the story number 2 and then...
+
+### The validation
+
+The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process. 
+
+But more important than that, we trust you!
 
 Also, the Bot will select 3 new requirements to be developed and will automatically post it as "issue' to every repository listed in CANDIDATES.
 
 There will be some default mandatory tests to be written and the bot will select 3 new test cases to be implemented.
 
-Once someone is validated as a Polyglot that person becomes a member of this organization and will have rights to moderate another applicants.
+Once someone is validated as a Polyglot that person becomes a member of this organization and will have rights to moderate another applicants if needed.
 
-> Then
+# Since the 7 stories is implemented and all tests passed!
 
-# Congrats! you are a Polyglot Programmer!
+> Congrats! you are a Polyglot Programmer!
 
-you will get a sticker and a t-shirt oferred by one of our sponsors!
-(since we get some)
+you will get your badge, your name written in our virtual rosseta stone, a sticker and a t-shirt oferred by one of our future sponsors!
