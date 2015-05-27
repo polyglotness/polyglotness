@@ -99,7 +99,7 @@ If you like you can substitute the data with a new search on instagram API or ev
 
 ### Project structure
 
-You have to keep the code related to each language inside its own folder, you do not have to follow any kind of design pattern, do the way you want since you write the mandatory tests and make it pass on travis CI
+You have to keep the code related to each language inside its own folder, you do not have to follow any kind of design pattern, do the way you want since you write the mandatory tests and make it pass on travis CI. Also, you can use third party libs when developing, since they can help abstract some implementations that are not so required for this project.
 
 ### CI
 
