@@ -30,7 +30,7 @@ Also it is FOR FUN! for community interation, to learn new things, and to compet
 
 New ideas will be always welcome, open an issue!
 
-# Project 
+# Project
 
 The idea is to develop a simple project in a bunch of different languages to prove your polyglot-ness
 
@@ -115,7 +115,7 @@ You have to follow the order of the stories starting at the number 1, develop th
 
 ### The validation
 
-The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process. 
+The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process.
 
 But more important than that, we trust you!
 
