@@ -1,5 +1,5 @@
-Rust Lang Useful Links
+Ruby Lang Useful Links
 ----------------------
 
-- [The Rust Book](https://doc.rust-lang.org/book/)
-- [Rust by example](http://rustbyexample.com/)
+- [Ruby in twenty minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [RubyMonk](https://rubymonk.com/)
