@@ -1,7 +1,12 @@
 
 https://github.com/polyglotness/polyglotness
 
+<p align="right" >
+<img src="https://avatars1.githubusercontent.com/u/12617483?v=3&s=130" alt="polyglotness chamaleon" />
+<p>
 # Polyglotness
+
+
 
 Develop the same project in X different languages.
 
