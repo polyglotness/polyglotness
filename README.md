@@ -86,7 +86,20 @@ If you like you can substitute the data with a new search on instagram API or ev
 5. Add your name to and a link to travis.yml to POLYGLOTS file and send the PR
 6. If everything is ok!
 
+
+## The validation
+
+The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process. (we trust you)
+
+Also, the Bot will select 3 new requirements to be developed and will automatically post it as "issue' to every repository listed in CANDIDATES.
+
+There will be some default mandatory tests to be written and the bot will select 3 new test cases to be implemented.
+
+Once someone is validated as a Polyglot that person becomes a member of this organization and will have rights to moderate another applicants.
+
 > Then
 
 # Congrats! you are a Polyglot Programmer!
+
 you will get a sticker and a t-shirt oferred by one of our sponsors!
+(since we get some)
