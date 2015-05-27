@@ -25,7 +25,7 @@ Develop the same project in X different languages.
 
 The project idea is to motivate programmers to be polyglot and know how to use 15 languages and its specific ecosystem and platform, it is a personal challenge taken by any individual who applies as a CANDIDATE.
 
-Also it is FOR FUN! for community interation, to learn new things, and to compete with others in other to get your Polyglot BADGE!
+Also it is FOR FUN! for community interation, to learn new things, and to compete with others in order to get your Polyglot BADGE!
 
 # Colaborate
 
