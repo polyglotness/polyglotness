@@ -107,7 +107,7 @@ Travis CI is the CI of choice because it supports multiple languages in the same
 
 ### Mandatory tests
 
-There is a bunch of mandatory tests to be written, some of them you will find in test_specs.md file, some of them will be automtically send by PolyglotBot
+There is a bunch of mandatory tests to be written, some of them you will find in [test_specs.md](https://github.com/polyglotness/polyglotness/blob/master/tests_specs.md) file, some of them will be automtically send by PolyglotBot
 
 ### Development sequence
 
