@@ -24,9 +24,9 @@ https://github.com/polyglotness/polyglotness
 
 The project idea is to motivate programmers to be polyglot and know how to use 15 languages and its specific ecosystem and platform, it is a personal challenge taken by any individual who applies as a CANDIDATE.
 
-Also it is FOR FUN! for community interation, to learn new things, and to compete with others in order to get your Polyglot BADGE!
+Also it is FOR FUN! for community interaction, to learn new things, and to compete with others in order to get your Polyglot BADGE!
 
-# Colaborate
+# Collaborate
 
 New ideas will be always welcome, open an issue!
 
@@ -107,15 +107,15 @@ Travis CI is the CI of choice because it supports multiple languages in the same
 
 ### Mandatory tests
 
-There is a bunch of mandatory tests to be written, some of them you will find in [test_specs.md](https://github.com/polyglotness/polyglotness/blob/master/tests_specs.md) file, some of them will be automtically send by PolyglotBot
+There is a bunch of mandatory tests to be written, some of them you will find in [test_specs.md](https://github.com/polyglotness/polyglotness/blob/master/tests_specs.md) file, some of them will be automatically send by PolyglotBot
 
 ### Development sequence
 
-You have to follow the order of the stories starting at the number 1, develop the story number 1 for each language, test it and since you develop 1 for avery language you can pass to the story number 2 and then...
+You have to follow the order of the stories starting at the number 1, develop the story number 1 for each language, test it and since you develop 1 for every language you can pass to the story number 2 and then...
 
 ### The validation
 
-The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analisys to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process.
+The Polyglotness Bot is the mind behind the Polyglotness challenge, this bot will keep monitoring every repository listed in CANDIDATES, will do some Data Analysis to be sure that the development flow is something that can be done by a human and nobody tries to cheat on the process.
 
 But more important than that, we trust you!
 
@@ -129,4 +129,4 @@ Once someone is validated as a Polyglot that person becomes a member of this org
 
 > Congrats! you are a Polyglot Programmer!
 
-you will get your badge, your name written in our virtual rosseta stone, a sticker and a t-shirt oferred by one of our future sponsors!
+you will get your badge, your name written in our virtual rosseta stone, a sticker and a t-shirt offered by one of our future sponsors!
